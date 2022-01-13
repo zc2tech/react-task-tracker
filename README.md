@@ -8,7 +8,10 @@
 ## Prerequisites
 [nodejs](https://nodejs.org) , Tested with Version 8.1.2
 
-Modules: react, react-scripts, server, json-server, react-router-dom (tested with v6), Use `npm i -g ` to install
+Install all needed module
+```
+npm install
+```
 
 China mainland use this setting before installing modules to accelerate download:
 > `npm config set registry http://registry.npm.taobao.org`
