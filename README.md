@@ -8,12 +8,12 @@
 ## Prerequisites
 [nodejs](https://nodejs.org) , Tested with Version 8.1.2
 
-Install all needed module
+Install all needed modules
 ```
 npm install
 ```
 
-China mainland use this setting before installing modules to accelerate download:
+China Mainland users can use this setting before installing modules to accelerate download:
 > `npm config set registry http://registry.npm.taobao.org`
 
 ## Run App
